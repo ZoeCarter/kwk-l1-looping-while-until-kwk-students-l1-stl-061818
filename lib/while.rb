@@ -4,17 +4,16 @@ def using_while
 def levitation_force
   levitation_force = 6
   
-  while counter < 10 
-    puts "
+  while levitation_force < 10 
+    puts "Wingardium Leviosa"
   
-  counter = counter + 1 
+  levitation_force =levitation_force + 1 
     puts "#{counter} move(s) completed!!"
   end 
   
 end 
 
-cupid_shuffle 
+levitation_force
 	
-end
 
 
