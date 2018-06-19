@@ -1,8 +1,8 @@
 def using_while
 	levitation_force = 6
-While Loop 
-def cupid_shuffle 
-  counter = 0
+
+def levitation_force
+  levitation_force = 6
   
   while counter < 10 
     puts "To the right, to the right, to the right, to the right"
