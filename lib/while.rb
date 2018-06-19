@@ -1,5 +1,4 @@
-def using_while
-	levitation_force = 6
+
 
 def levitation_force
   levitation_force = 6
@@ -8,7 +7,7 @@ def levitation_force
     puts "Wingardium Leviosa"
   
   levitation_force =levitation_force + 1 
-    puts "#{counter} move(s) completed!!"
+    puts "#{levitation_force} move(s) completed!!"
   end 
   
 end 
